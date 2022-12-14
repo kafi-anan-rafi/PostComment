@@ -1,0 +1,15 @@
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\bin\Debug\DAL.dll.config
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\bin\Debug\DAL.dll
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\bin\Debug\DAL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\obj\Debug\DAL.dll
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\obj\Debug\DAL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\obj\Debug\DAL.Migrations.CommentAndPostTableCreated.resources
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Suvo\Desktop\ASP.NET\FINAL\PostComment\DAL\obj\Debug\DAL.Migrations.PostCommentFKAdded.resources
